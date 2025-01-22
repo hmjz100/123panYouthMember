@@ -1,3 +1,7 @@
+> [!NOTE]
+> 如果您正在使用非 “123 云盘会员青春版” 的三改脚本，请卸载对应脚本并安装本脚本。  
+> 这些脚本可能存在不确定性和安全风险，并且无法接收此源头脚本的最新更新。 
+
 ![123panYouthMember](https://socialify.git.ci/hmjz100/123panYouthMember/image?description=1&descriptionEditable=%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8E%20JavaScript%20%E7%9A%84%20123%20%E4%BA%91%E7%9B%98%E6%98%BE%E7%A4%BA%E4%BF%A1%E6%81%AF%E4%BF%AE%E6%94%B9%E5%B7%A5%E5%85%B7%0A%E4%BA%A6%E6%98%AF%20123%20%E4%BA%91%E7%9B%98%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B&font=Jost&language=1&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEVHcExYfPxYfPtYfPxYffxYfPtYfPxYfPxYfPxYfPtYfPxYffxYfPw0dYExAAAAC3RSTlMA5hT1bmHFhy%2BgsYVp7toAAAEwSURBVDiNfVOJssMgCBSRqIH%2F%2F97K4ZH30u50dMdsgUVMydCo%2FAG1tEHAb%2Bg5vndBeYdHuWWoRVh0FWfiK6uCXsMHYAg8v8jzi8QBpfaWmxe7UvmVgRlTFQEA1MV2hXOjQ8A87F4SnnMVq0xpkYhggtW1IrAaeERg76%2FGATTezOGO4OYguGbP1uMVITD%2Bd590RxjmR%2BU1GR%2FsokFRDkFv2Zxk8SsY7D6L7LP0y6OrgE%2BbY8lEpWt%2FuNeqhprsFKimHvcBVs4SgEWMq7Jd8%2FSnANAw4ipum6VTkLIiNQTb07TpLlb%2FU0Y4DJmgEAHQRGG0rXScNm087Srm9MWBzQPtL%2BdI7qnNX55EoKuVOaN8%2FOZB845%2Fhd1Q85pkb6vmK542xKEwP1jdz%2Fv%2B977xqtbNDxHfHUPkQNKsAAAAAElFTkSuQmCC&name=1&owner=1&pattern=Charlie%20Brown&theme=Auto)
 
 <p align="center">
@@ -7,7 +11,6 @@
    <img alt="GreasyFork Daily Install" src="https://img.shields.io/badge/dynamic/json?label=%e6%97%a5%e8%a3%85&url=https%3A%2F%2Fgreasyfork.org%2Fscripts%2F513528.json&query=daily_installs&logo=greasyfork&logoColor=white&labelColor=%23670000&color=blue&style=for-the-badge&cacheSeconds=10">
    <img alt="GreasyFork Total Install" src="https://img.shields.io/badge/dynamic/json?label=%e6%80%bb%e8%a3%85&url=https%3A%2F%2Fgreasyfork.org%2Fscripts%2F513528.json&query=total_installs&logo=greasyfork&logoColor=white&labelColor=%23670000&color=blue&style=for-the-badge&cacheSeconds=10">
    <img alt="Github Forks" src="https://img.shields.io/github/forks/hmjz100/123panYouthMember?label=%e5%a4%8d%e5%88%bb&logo=github&logoColor=white&labelColor=black&color=grey&style=for-the-badge&cacheSeconds=10">
-   <br/>
    <img alt="Github Licence" src="https://img.shields.io/github/license/hmjz100/123panYouthMember?label=%e8%ae%b8%e5%8f%af&logo=github&logoColor=white&labelColor=black&color=grey&style=for-the-badge&cacheSeconds=10">
    <img alt="GreasyFork Licence" src="https://img.shields.io/greasyfork/l/513528?label=%e8%ae%b8%e5%8f%af&logo=greasyfork&logoColor=white&labelColor=%23670000&color=grey&style=for-the-badge&cacheSeconds=10">
    <br/>
