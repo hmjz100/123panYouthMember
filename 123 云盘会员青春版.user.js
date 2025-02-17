@@ -11,6 +11,7 @@
 // @match        *://*.123684.com/*
 // @match        *://*.123865.com/*
 // @match        *://*.123952.com/*
+// @match        *://*.123912.com/*
 // @grant        unsafeWindow
 // @run-at       document-start
 // @require      https://unpkg.com/jquery@3.6.0/dist/jquery.min.js
