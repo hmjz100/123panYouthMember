@@ -287,7 +287,7 @@
 
 							if (user.debug === 1 || user.debug === 2) console.log("【123 云盘会员青春版】Hook XHR", "\n请求地址:", url, "\n原始回复:", oriRes, "\n修改回复:", res)
 						}
-					} else if (res?.code === 5113) {
+					} else if (res?.code === 5113 || res?.code === 5114 || res?.message?.includes("下载流量已超出")) {
 						res = {
 							"code": 400,
 							"message": "服务器不允许免费使用打包下载，已为您拦截支付窗口（123 云盘会员青春版）",
