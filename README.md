@@ -1,7 +1,3 @@
-> [!CAUTION]
-> 如果您正在使用非 “123 云盘会员青春版” 的三改脚本（基于此脚本的脚本），请卸载相关脚本并安装本脚本。  
-> 这些脚本可能存在不确定性和安全风险，还可能会给您的网页添加广告，并且无法接收到此源头脚本的最新更新。 
-
 ![123panYouthMember](https://socialify.git.ci/hmjz100/123panYouthMember/image?description=1&descriptionEditable=%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8E%20JavaScript%20%E7%9A%84%20123%20%E4%BA%91%E7%9B%98%E6%98%BE%E7%A4%BA%E4%BF%A1%E6%81%AF%E4%BF%AE%E6%94%B9%E5%B7%A5%E5%85%B7%0A%E4%BA%A6%E6%98%AF%20123%20%E4%BA%91%E7%9B%98%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B&font=Jost&language=1&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEVHcExYfPxYfPtYfPxYffxYfPtYfPxYfPxYfPxYfPtYfPxYffxYfPw0dYExAAAAC3RSTlMA5hT1bmHFhy%2BgsYVp7toAAAEwSURBVDiNfVOJssMgCBSRqIH%2F%2F97K4ZH30u50dMdsgUVMydCo%2FAG1tEHAb%2Bg5vndBeYdHuWWoRVh0FWfiK6uCXsMHYAg8v8jzi8QBpfaWmxe7UvmVgRlTFQEA1MV2hXOjQ8A87F4SnnMVq0xpkYhggtW1IrAaeERg76%2FGATTezOGO4OYguGbP1uMVITD%2Bd590RxjmR%2BU1GR%2FsokFRDkFv2Zxk8SsY7D6L7LP0y6OrgE%2BbY8lEpWt%2FuNeqhprsFKimHvcBVs4SgEWMq7Jd8%2FSnANAw4ipum6VTkLIiNQTb07TpLlb%2FU0Y4DJmgEAHQRGG0rXScNm087Srm9MWBzQPtL%2BdI7qnNX55EoKuVOaN8%2FOZB845%2Fhd1Q85pkb6vmK542xKEwP1jdz%2Fv%2B977xqtbNDxHfHUPkQNKsAAAAAElFTkSuQmCC&name=1&owner=1&pattern=Charlie%20Brown&theme=Auto)
 
 <p align="center">
@@ -17,6 +13,10 @@
    <img alt="Starchart" src="https://starchart.cc/hmjz100/123panYouthMember.svg?variant=adaptive&line=%23574ab8">
 </p>
 
+## 安装
+- 123 云盘会员青春版
+  https://github.moeyy.xyz/https://github.com/hmjz100/123panYouthMember/raw/main/123%20%E4%BA%91%E7%9B%98%E4%BC%9A%E5%91%98%E9%9D%92%E6%98%A5%E7%89%88.user.js
+
 ## 说明
 
 基于 123 云盘下载辅助 重置
@@ -24,17 +24,21 @@
 - 原脚本：[https://greasyfork.org/scripts/510621](https://greasyfork.org/scripts/510621)（已删除）
 - 原脚本仓库：[https://github.com/Bao-qing/123pan](https://github.com/Bao-qing/123pan)（已删除）
 - 本脚本发布至 GreasyFork：[https://greasyfork.org/scripts/513528](https://greasyfork.org/scripts/513528)
-   
-因网络环境，发布新脚本时 GreasyFork 是最快更新的，所以请在 GreasyFork [【直接安装本脚本】](https://greasyfork.org/scripts/513528/code/123%20%E4%BA%91%E7%9B%98%E4%BC%9A%E5%91%98%E9%9D%92%E6%98%A5%E7%89%88.user.js)。 
+  - 还有脚本猫：[https://scriptcat.org/script-show-page/2385](https://scriptcat.org/script-show-page/2385)
 
 ## 简介
+
 基于保清(Qing)大佬的脚本做出的小玩意，可以更换头像等，需要修改代码来配置显示内容，  
 伪破解会员，仅为界面显示，只能用用超1G限制下载、视频倍速播放、免广告等功能  
 要用加容量什么的这些基于服务器的就买会员去吧
 
+> [!TIP]
+> 本项目是一个 “源头项目” 哦！在 “123 云盘下载辅助” 下架后，“123 云盘会员青春版” 由此诞生。
+
 #### 卑微的小标题
 
-这个脚本只有一个人在修改\~如果喜欢的话还请留个好评和Star哦\~
+这个脚本只有一个人在修改\~如果喜欢的话还请留个 Star 哦\~   
+- 如有 bug 等问题请在这发[议题反馈](https://github.com/hmjz100/123panYouthMember/issues)
 
 # 功能
 
@@ -43,7 +47,8 @@
 // 以下设置项中，常规项目（就是以//开头注释的项目）除非特殊说明，否则一般 0 为关闭，1 为开启
 vip: 1, // 开启会员修改（总开关）
 svip: 1, // 显示为超级会员，建议 1
-ad: 1, // 关闭广告，建议 1
+pvip: 1, // 显示为长期会员，建议 1
+ad: 1, // 关闭广告，仅 SVIP 有效，建议 1
 
 // 以下是自定义项目（以/*开头注释的项目），修改也非常简单
 /*
@@ -54,7 +59,7 @@ photo: "https://cdn.auth0.com/avatars/bw.png",
 mail: "", // 最好不改，我怕影响支付
 phone: "", // 最好不改，我怕影响支付
 id: "", // 最好不改，我怕影响支付
-/* 成长容量等级，最高可叠加 128 级别 */
+/* 成长容量等级，最高可叠加 128 级 */
 level: 128,
 /*
 会员过期时间 格式为Unix时间戳，可留空为""
