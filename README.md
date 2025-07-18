@@ -7,6 +7,7 @@
    <img alt="GreasyFork Daily Install" src="https://img.shields.io/badge/dynamic/json?label=%e6%97%a5%e8%a3%85&url=https%3A%2F%2Fgreasyfork.org%2Fscripts%2F513528.json&query=daily_installs&logo=greasyfork&logoColor=white&labelColor=%23670000&color=blue&style=for-the-badge&cacheSeconds=10">
    <img alt="GreasyFork Total Install" src="https://img.shields.io/badge/dynamic/json?label=%e6%80%bb%e8%a3%85&url=https%3A%2F%2Fgreasyfork.org%2Fscripts%2F513528.json&query=total_installs&logo=greasyfork&logoColor=white&labelColor=%23670000&color=blue&style=for-the-badge&cacheSeconds=10">
    <img alt="Github Forks" src="https://img.shields.io/github/forks/hmjz100/123panYouthMember?label=%e5%a4%8d%e5%88%bb&logo=github&logoColor=white&labelColor=black&color=grey&style=for-the-badge&cacheSeconds=10">
+   <br/>
    <img alt="Github Licence" src="https://img.shields.io/github/license/hmjz100/123panYouthMember?label=%e8%ae%b8%e5%8f%af&logo=github&logoColor=white&labelColor=black&color=grey&style=for-the-badge&cacheSeconds=10">
    <img alt="GreasyFork Licence" src="https://img.shields.io/greasyfork/l/513528?label=%e8%ae%b8%e5%8f%af&logo=greasyfork&logoColor=white&labelColor=%23670000&color=grey&style=for-the-badge&cacheSeconds=10">
    <br/>
