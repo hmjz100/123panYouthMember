@@ -1,4 +1,4 @@
-![123panYouthMember](https://socialify.git.ci/hmjz100/123panYouthMember/image?description=1&descriptionEditable=%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8E%20JavaScript%20%E7%9A%84%20123%20%E4%BA%91%E7%9B%98%E6%98%BE%E7%A4%BA%E4%BF%A1%E6%81%AF%E4%BF%AE%E6%94%B9%E5%B7%A5%E5%85%B7%0A%E4%BA%A6%E6%98%AF%20123%20%E4%BA%91%E7%9B%98%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8Bt&language=1&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEVHcExYfPxYfPtYfPxYffxYfPtYfPxYfPxYfPxYfPtYfPxYffxYfPw0dYExAAAAC3RSTlMA5hT1bmHFhy%2BgsYVp7toAAAEwSURBVDiNfVOJssMgCBSRqIH%2F%2F97K4ZH30u50dMdsgUVMydCo%2FAG1tEHAb%2Bg5vndBeYdHuWWoRVh0FWfiK6uCXsMHYAg8v8jzi8QBpfaWmxe7UvmVgRlTFQEA1MV2hXOjQ8A87F4SnnMVq0xpkYhggtW1IrAaeERg76%2FGATTezOGO4OYguGbP1uMVITD%2Bd590RxjmR%2BU1GR%2FsokFRDkFv2Zxk8SsY7D6L7LP0y6OrgE%2BbY8lEpWt%2FuNeqhprsFKimHvcBVs4SgEWMq7Jd8%2FSnANAw4ipum6VTkLIiNQTb07TpLlb%2FU0Y4DJmgEAHQRGG0rXScNm087Srm9MWBzQPtL%2BdI7qnNX55EoKuVOaN8%2FOZB845%2Fhd1Q85pkb6vmK542xKEwP1jdz%2Fv%2B977xqtbNDxHfHUPkQNKsAAAAAElFTkSuQmCC&name=1&owner=1&pattern=Charlie%20Brown&theme=Auto)
+![123panYouthMember](https://socialify.git.ci/hmjz100/123panYouthMember/image?description=1&descriptionEditable=%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8E%20JavaScript%20%E7%9A%84%20123%20%E4%BA%91%E7%9B%98%E6%98%BE%E7%A4%BA%E4%BF%A1%E6%81%AF%E4%BF%AE%E6%94%B9%E5%B7%A5%E5%85%B7%0A%E4%BA%A6%E6%98%AF%20123%20%E4%BA%91%E7%9B%98%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B&language=1&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEVHcExYfPxYfPtYfPxYffxYfPtYfPxYfPxYfPxYfPtYfPxYffxYfPw0dYExAAAAC3RSTlMA5hT1bmHFhy%2BgsYVp7toAAAEwSURBVDiNfVOJssMgCBSRqIH%2F%2F97K4ZH30u50dMdsgUVMydCo%2FAG1tEHAb%2Bg5vndBeYdHuWWoRVh0FWfiK6uCXsMHYAg8v8jzi8QBpfaWmxe7UvmVgRlTFQEA1MV2hXOjQ8A87F4SnnMVq0xpkYhggtW1IrAaeERg76%2FGATTezOGO4OYguGbP1uMVITD%2Bd590RxjmR%2BU1GR%2FsokFRDkFv2Zxk8SsY7D6L7LP0y6OrgE%2BbY8lEpWt%2FuNeqhprsFKimHvcBVs4SgEWMq7Jd8%2FSnANAw4ipum6VTkLIiNQTb07TpLlb%2FU0Y4DJmgEAHQRGG0rXScNm087Srm9MWBzQPtL%2BdI7qnNX55EoKuVOaN8%2FOZB845%2Fhd1Q85pkb6vmK542xKEwP1jdz%2Fv%2B977xqtbNDxHfHUPkQNKsAAAAAElFTkSuQmCC&name=1&owner=1&pattern=Charlie%20Brown&theme=Auto)
 
 <p align="center">
    <img alt="GreasyFork Version" src="https://img.shields.io/badge/dynamic/json?label=%e7%89%88%e6%9c%ac&url=https%3A%2F%2Fgreasyfork.org%2Fscripts%2F513528.json&query=version&logo=greasyfork&logoColor=white&labelColor=%23670000&color=%23574AB8&style=for-the-badge&cacheSeconds=10">
@@ -16,7 +16,7 @@
 
 ## 安装
 - 123 云盘会员青春版
-  https://github.moeyy.xyz/https://github.com/hmjz100/123panYouthMember/raw/main/123%20%E4%BA%91%E7%9B%98%E4%BC%9A%E5%91%98%E9%9D%92%E6%98%A5%E7%89%88.user.js
+  https://github.com/hmjz100/123panYouthMember/raw/main/123%20%E4%BA%91%E7%9B%98%E4%BC%9A%E5%91%98%E9%9D%92%E6%98%A5%E7%89%88.user.js
 
 ## 说明
 
