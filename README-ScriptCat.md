@@ -4,7 +4,7 @@
 	<p>
 		搭配使用，效果更佳！👋姊妹脚本
 		<br/>
-		<a href="https://scriptcat.org/script-show-page/1604" target="_blank">LinkSwift * 直链获取</a> | <a href="https://scriptcat.org/script-show-page/2236" target="_blank">百度网盘会员青春版</a> | <a href="https://scriptcat.org/script-show-page/2470" target="_blank">阿里云盘会员青春版</a>
+		<a href="https://scriptcat.org/script-show-page/1604" target="_blank">LinkSwift - 直链获取</a> | <a href="https://scriptcat.org/script-show-page/2236" target="_blank">百度网盘会员青春版</a> | <a href="https://scriptcat.org/script-show-page/2470" target="_blank">阿里云盘会员青春版</a>
 		<br/>
 		↓&nbsp;&nbsp;↓&nbsp;&nbsp;↓&nbsp;&nbsp;↓&nbsp;&nbsp;↓
 	</p>
@@ -79,4 +79,5 @@ debug: 0, // 显示本脚本的调试信息到 JavaScript 控制台中，建议 
 
 ## AI 说明
 项目仅使用 AI 辅助编码，严格杜绝 Vibe Coding；
+
 代码均经过人工复验，品质有保障。
