@@ -70,7 +70,7 @@
 		endtime: 253402185600,
 
 		// 以下的常规项目（就是以//开头注释的项目）均为独立功能，不受总开关控制
-		debug: 2, // 显示本脚本的调试信息到 JavaScript 控制台中，建议 0，另外，1 显示所有，2 仅显示基本，3 仅显示修改其他 Header
+		debug: 0, // 显示本脚本的调试信息到 JavaScript 控制台中，建议 0，另外，1 显示所有
 	}
 
 	/*
@@ -453,7 +453,7 @@
 							res = tempHeaders;
 						};
 					} catch { }
-					if (user.debug === 1 || user.debug === 2) {
+					if (user.debug) {
 						type === "start" && console.log(`【123 云盘会员青春版】Hook ${from} Virt`, "\n请求地址:", url.href, "\n模拟回复:", (res ? res : "无"));
 						type === "end" && console.log(`【123 云盘会员青春版】Hook ${from} Repl`, "\n请求地址:", url.href, "\n原始回复:", (oriRes ? oriRes : "无"), "\n修改回复:", (res ? res : "无"));
 						type === "header" && console.log(`【123 云盘会员青春版】Hook ${from} Head`, "\n请求地址:", url.href, "\n原始头部:", (oriRes ? oriRes : "无"), "\n修改头部:", (res ? res : "无"));
