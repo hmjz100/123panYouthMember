@@ -553,21 +553,41 @@
 
 	// 旧版 分享 提示
 	base.waitForKeyElements(".contentBorder .cleanNet", (element) => {
-		let text = "感谢您使用会员青春版，喜欢的话就来给个 Star 吧~ >>>";
-		if (element.children('span:first').text() === text) return;
-		let elemclone = element.children('span:first');
-		elemclone.text(text);
-		elemclone.css("color", "#574AB8");
-		elemclone.off("click").on("click", (e) => {
-			e.preventDefault();
-			window.open("https://github.com/hmjz100/123panYouthMember", "_blank");
+		if (element.find("span").data("replaced")) return;
+		let text = "用爱发电不接广，共创开源新环境；感谢您选择会员青春版，喜欢的话就来给个 Star 吧~ >>>";
+		function replaceElement(target) {
+			let element = $("<span></span>");
+			element.text(text);
+			element.data("replaced", true);
+			element.css("color", "#574AB8");
+			element.off("click").on("click", (e) => {
+				e.preventDefault();
+				window.open("https://github.com/hmjz100/123panYouthMember", "_blank");
+			});
+			target.replaceWith(element);
+		}
+		replaceElement(element.find("span"));
+		let observer = new MutationObserver((mutations) => {
+			mutations.forEach((mutation) => {
+				if (mutation.type === 'childList' || mutation.type === 'characterData') {
+					let currentSpan = element.find("span");
+					if (currentSpan.length === 0 || currentSpan.text() !== text) {
+						replaceElement(element.find("span"));
+					}
+				}
+			});
 		});
-		element.children('span:first').replaceWith(elemclone);
-	})
+		observer.observe(element[0], {
+			childList: true,
+			subtree: true,
+			characterData: true
+		});
+		element.data("observer", observer);
+	}, true)
 	// 新版 主页 提示
 	base.waitForKeyElements(".frontend-layout-header > .frontend-layout-header-left > .frontend-layout-header-left-cdn", (element) => {
 		if (element.data("replaced")) return;
-		element.children(':first').text("感谢您使用会员青春版，喜欢的话就来给个 Star 吧~");
+		element.children(':first').text("用爱发电不接广，共创开源新环境；感谢您选择会员青春版，喜欢的话就来给个 Star 吧~");
 		element.data("replaced", true);
 		let elemclone = element.find(".frontend-layout-header-left-cdn-button").clone();
 		elemclone.contents().filter((_, n) => n.nodeType === 3 && $.trim(n.nodeValue)).first().get(0).nodeValue = 'Github';
@@ -579,7 +599,7 @@
 	// 新版 分享 提示
 	base.waitForKeyElements(".FileList-CleanNet-cleanNet-container", (element) => {
 		if (element.data("replaced")) return;
-		element.children('span:first').text("感谢您使用会员青春版，喜欢的话就来给个 Star 吧~");
+		element.children('span:first').text("用爱发电不接广，共创开源新环境；感谢您选择会员青春版，喜欢的话就来给个 Star 吧~");
 		element.data("replaced", true);
 		let elemclone = element.find(".FileList-CleanNet-link").clone();
 		elemclone.find(".FileList-CleanNet-text").text('Github');
