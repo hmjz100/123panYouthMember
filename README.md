@@ -11,7 +11,7 @@
    <img alt="GreasyFork Total Install" src="https://img.shields.io/badge/dynamic/json?label=%e6%80%bb%e8%a3%85&url=https%3A%2F%2Fgreasyfork.org%2Fscripts%2F513528.json&query=total_installs&logo=greasyfork&logoColor=white&labelColor=%23670000&color=blue&style=for-the-badge&cacheSeconds=10">
    <img alt="Github Licence" src="https://img.shields.io/github/license/hmjz100/123panYouthMember?label=%e8%ae%b8%e5%8f%af&logo=github&logoColor=white&labelColor=black&color=grey&style=for-the-badge&cacheSeconds=10">
    <br/>
-   <!--img alt="Starchart" src="https://starchart.cc/hmjz100/123panYouthMember.svg?variant=adaptive&line=%23574ab8"-->
+   <img alt="Starchart" src="https://starchart.cc/hmjz100/123panYouthMember.svg?variant=adaptive&line=%23574ab8">
 </p>
 
 ## 安装
@@ -49,3 +49,4 @@
 这个脚本只有一个人在修改\~如果喜欢的话还请留个 Star 哦\~   
 
 - 如有 bug 等问题请在这发[议题反馈](https://github.com/hmjz100/123panYouthMember/issues)
+
