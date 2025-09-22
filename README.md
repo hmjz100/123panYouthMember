@@ -25,6 +25,11 @@
 ## 耻辱柱
 [前往 Wiki 查看](https://github.com/hmjz100/123panYouthMember/wiki/Hall-of-Shame-(%E8%80%BB%E8%BE%B1%E6%9F%B1))
 
+## 功能
+
+以下是本脚本界面的一部分，多数功能展示于此。  
+![设置界面](https://github.com/user-attachments/assets/29b79c59-d1cc-4497-87cd-d47d6be897b5)
+
 ## 说明
 
 基于 123 云盘下载辅助 重置
