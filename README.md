@@ -20,7 +20,7 @@
 
 - 123 云盘会员青春版
   - Github 国际: [hmjz100/123panYouthMember/123 云盘会员青春版.user.js](https://github.com/hmjz100/123panYouthMember/raw/main/123%20云盘会员青春版.user.js)
-  - 脚本猫 国内：[hmjz100/2385/123 云盘会员青春版.user.js](https://scriptcat.org/scripts/code/2385/123%20%E4%BA%91%E7%9B%98%E4%BC%9A%E5%91%98%E9%9D%92%E6%98%A5%E7%89%88.user.js)
+  - 脚本猫 国内: [hmjz100/2385/123 云盘会员青春版.user.js](https://scriptcat.org/scripts/code/2385/123%20%E4%BA%91%E7%9B%98%E4%BC%9A%E5%91%98%E9%9D%92%E6%98%A5%E7%89%88.user.js)
 
 ## 耻辱柱
 [前往 Wiki 查看](https://github.com/hmjz100/123panYouthMember/wiki/Hall-of-Shame-(%E8%80%BB%E8%BE%B1%E6%9F%B1))
@@ -33,10 +33,10 @@
 ## 说明及致谢
 
 项目早期版本基于 `123 云盘下载辅助` 修改，后续版本参考另一项目 [`（改）百度网盘会员青春版`](https://github.com/hmjz100/LinkSwift) 的架构进行了彻底重构。
-- 原作者：[保清](https://github.com/Bao-qing/)
-- 原脚本仓库：[https://github.com/Bao-qing/123pan/](https://github.com/Bao-qing/123pan/)
-- 原脚本 Greasy Fork：[https://greasyfork.org/scripts/510621](https://greasyfork.org/scripts/510621)（已删除）
-- 本脚本发布至脚本猫：[https://scriptcat.org/script-show-page/2385](https://scriptcat.org/script-show-page/2385)
+- 原作者: [保清](https://github.com/Bao-qing/)
+- 原脚本仓库: [https://github.com/Bao-qing/123pan/](https://github.com/Bao-qing/123pan/)
+- 原脚本 Greasy Fork: [https://greasyfork.org/scripts/510621](https://greasyfork.org/scripts/510621)（已删除）
+- 本脚本发布至脚本猫: [https://scriptcat.org/script-show-page/2385](https://scriptcat.org/script-show-page/2385)
 
 ## 简介
 
@@ -49,5 +49,3 @@
 这个脚本只有一个人在修改\~如果喜欢的话还请留个 Star 哦\~   
 
 - 如有 bug 等问题请在这发[议题反馈](https://github.com/hmjz100/123panYouthMember/issues)
-
-
