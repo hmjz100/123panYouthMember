@@ -516,16 +516,16 @@
 				// VIP会员|至：2025.12.11 00:00:00 到期|使用中
 				res.data.UserVipDetailInfos = res.data.UserVipDetail.UserVipDetailInfos = [
 					{
-						VipDesc: '青春创始包',
-						TimeDesc: `从：${new Date(1638288000 * 1000).toLocaleDateString(mount)} 生效`,
+						VipDesc: '青春创始包：',
+						TimeDesc: `${new Date(1638288000 * 1000).toLocaleDateString(mount)} 生效`,
 					},
 					{
-						VipDesc: '衣食所系包',
-						TimeDesc: `从：${new Date(1727539200 * 1000).toLocaleDateString(mount)} 生效`,
+						VipDesc: '衣食所系包：',
+						TimeDesc: `${new Date(1727539200 * 1000).toLocaleDateString(mount)} 生效`,
 					},
 					{
-						VipDesc: user.svip == true ? "SVIP会员" : "VIP会员",
-						TimeDesc: `至：${vipEndTime.toLocaleDateString(mount)} 到期`,
+						VipDesc: `${user.svip == true ? "SVIP会员" : "VIP会员"}：`,
+						TimeDesc: `${vipEndTime.toLocaleDateString(mount)} 到期`,
 						IsUse: vipEndTime >= new Date(),
 						endTime: user.endtime,
 						EndTime: user.endtime,
@@ -536,7 +536,7 @@
 				if (user.pvip == true) {
 					res.data.VipExpire = "永久有效";
 					res.data.UserVipDetail.UserPermanentVIPDetailInfos = [{
-						VipDesc: "长期VIP会员",
+						VipDesc: "长期VIP会员：",
 						TimeDesc: "永久有效",
 						IsUse: true
 					}]
