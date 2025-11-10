@@ -20,6 +20,7 @@
 
 ### 123 云盘会员青春版
 - Github 国际: [hmjz100/123panYouthMember/123 云盘会员青春版.user.js](https://github.com/hmjz100/123panYouthMember/raw/main/123%20云盘会员青春版.user.js)
+- OpenUserJS 国际（更新不及时）: [hmjz100/123 云盘会员青春版.user.js](https://openuserjs.org/install/hmjz100/123_%E4%BA%91%E7%9B%98%E4%BC%9A%E5%91%98%E9%9D%92%E6%98%A5%E7%89%88.user.js)
 - 脚本猫 国内: [hmjz100/2385/123 云盘会员青春版.user.js](https://scriptcat.org/scripts/code/2385/123%20%E4%BA%91%E7%9B%98%E4%BC%9A%E5%91%98%E9%9D%92%E6%98%A5%E7%89%88.user.js)
 
 ## 耻辱柱
@@ -49,4 +50,5 @@
 这个脚本只有一个人在修改\~如果喜欢的话还请留个 Star 哦\~   
 
 - 如有 bug 等问题请在这发[议题反馈](https://github.com/hmjz100/123panYouthMember/issues)
+
 
