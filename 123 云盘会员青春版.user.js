@@ -571,7 +571,7 @@
 
 					res.data.OrderList = [
 						...(user.pvip == true ? [{
-							"orderId": generateOrderNo(new Date(user.endtime * 1000)),
+							"orderId": generateOrderNo(new Date()),
 							"createAt": new Date().toLocaleDateString(mount),
 							"productExplain": "云盘长期会员（模拟）",
 							"updateAt": new Date(Date.now() + 60 * 1000).toLocaleDateString(mount),
@@ -584,7 +584,7 @@
 							"continuousPayment": 0
 						}] : []),
 						{
-							"orderId": generateOrderNo(new Date(user.endtime * 1000), undefined, "02"),
+							"orderId": generateOrderNo(new Date(), undefined, "02"),
 							"createAt": new Date().toLocaleDateString(mount),
 							"productExplain": `云盘${user.svip == true ? "SVIP" : "VIP"}会员（模拟）`,
 							"updateAt": new Date(Date.now() + 60 * 1000).toLocaleDateString(mount),
